@@ -1,4 +1,4 @@
-# SentanceStems
+# Sentance Stems
 
 - Timesheet Sentence Stems
 - I worked on _____[project name]        for    [# of minutes]      . Specifically, I      [details of your work]     .
